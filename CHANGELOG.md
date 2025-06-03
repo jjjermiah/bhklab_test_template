@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.1](https://github.com/bhklab/bhklab-project-template/compare/v0.11.0...v0.11.1) (2025-06-03)
+
+
+### Bug Fixes
+
+* adjust fetch depth in checkout step and streamline lockfile update process ([3d73c63](https://github.com/bhklab/bhklab-project-template/commit/3d73c634f02c6df9f1d00eddeba5a5f1cf214672))
+
 ## [0.11.0](https://github.com/bhklab/bhklab-project-template/compare/v0.10.0...v0.11.0) (2025-06-03)
 
 
